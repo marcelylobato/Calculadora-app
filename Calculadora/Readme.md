@@ -16,7 +16,7 @@ Publicar no GitHub: Ao concluir o projeto, publique-o em um repositório no GitH
 HTML
 Javascript
 Git / GitHub
-📄 Prompts e ferramentas
+
 👨‍💻 Gestão de TI | Desenvolvedora Front-End
 
    Marcely Lobato
